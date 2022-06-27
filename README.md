@@ -1,4 +1,15 @@
-# discordjs-v13
+Discord.js V13 Clear Commands Folder
+<hr>
+<h2>NOTE:</h2>
+
+```javascript
+
+Please use  npm i discord.js otherwise it won't work
+
+
+``` 
+
+<br><br>
 
 [![Instagram Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=instagram&logoColor=white)](https://instagram.com/krenarty)&nbsp;
 [![GitHub Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=github&logoColor=white)](https://github.com/krenarty)&nbsp;
