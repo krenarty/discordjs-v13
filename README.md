@@ -4,7 +4,7 @@ Discord.js V13 Clear Commands Folder
 
 ```javascript
 
-Please use  npm i discord.js otherwise it won't work
+Please use npm i discord.js otherwise it won't work
 
 
 ``` 
