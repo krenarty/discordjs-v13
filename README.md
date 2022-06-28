@@ -1,10 +1,10 @@
 Discord.js V13 Clear Commands Folder
 <hr>
-<h2>NOTE:</h2>
+<h2>Required node modules</h2>
 
 ```javascript
 
-Please use npm i discord.js otherwise it won't work
+npm i discord.js
 
 
 ``` 
